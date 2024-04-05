@@ -183,7 +183,7 @@ const Sidebar = ({ isSidebarOpen }) => {
                         <span className="ps-4 text-2xl float-left">
                           <MdLogout />
                         </span>
-                        <span className={`text-base flex-1`}>Log Out</span>
+                        <span className={`text-base flex-1`}>Log&nbsp;Out</span>
                       </li>
                     </Link>
                   ) : (
